@@ -7,6 +7,5 @@
     <a href="https://ankitacharya25.github.io" target="_blank">ankitacharya25.github.io</a> has now shifted to <strong><a href="https://ankitbuilds.tech">ankitbuilds.tech</a>         <strong> <img src="https://c.tenor.com/yso9Ncqwm5UAAAAi/click-subscribe.gif" width="20px">
   </p>
 </h2>
-  
-<!-- ![demo](https://raw.githubusercontent.com/ankitacharya25/ankitacharya25.github.io/main/demo.png) -->
+
 <img alt="Logo" src="https://raw.githubusercontent.com/ankitacharya25/ankitacharya25.github.io/main/demo.png"/>
