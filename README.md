@@ -8,4 +8,5 @@
   </p>
 </h2>
   
-![demo](https://raw.githubusercontent.com/ankitacharya25/ankitacharya25.github.io/main/demo.png)
+<!-- ![demo](https://raw.githubusercontent.com/ankitacharya25/ankitacharya25.github.io/main/demo.png) -->
+<img alt="Logo" src="https://raw.githubusercontent.com/ankitacharya25/ankitacharya25.github.io/main/demo.png"/>
